@@ -1,4 +1,5 @@
-## obesity level estimation based on food habits and lifestyle
+## Obesity level estimation based on food habits and lifestyle
+
 ## Dataset is retreived from UCI machine learning repository for data modelling
 
   * obesity_exploratory.csv - contains the raw data which is preprocessed in obesity_exploratory.ipynb file
